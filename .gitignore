@@ -3,8 +3,6 @@
 *.pt
 *.pkl
 
-# Données volumineuses
-
 # Environnements Python
 .venv/
 __pycache__/
